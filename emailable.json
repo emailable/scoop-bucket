@@ -1,0 +1,15 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/emailable/emailable-cli/releases/download/v0.3.0/emailable_0.3.0_windows_amd64.zip",
+            "bin": [
+                "emailable.exe"
+            ],
+            "hash": "0429e99f5747e583c37e6a0c16bda9a2dfcf5506aa6c5572390d7b10ba7a7d10"
+        }
+    },
+    "homepage": "https://emailable.com",
+    "license": "MIT",
+    "description": "Official command-line interface for the Emailable API."
+}
